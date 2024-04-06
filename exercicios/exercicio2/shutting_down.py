@@ -18,4 +18,3 @@ def cancel_shutdown():
     
 turn_off_one_hour()
 cancel_shutdown()
-zap()
